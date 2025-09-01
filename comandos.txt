@@ -1,3 +1,6 @@
+git init - Inicializa repositório
+git commit -m "Initial commit" - Commit inicial no main
 git checkout -b feat-branch-01
 git checkout -b feat-branch-02
 git checkout -b feat-branch-03
+
